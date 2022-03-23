@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+/* #ball_2{
+  animation: scale 1s linear 250ms infinite alternate;
+  transform-origin: center;
+}
+
+@keyframes scale {
+  from {
+    transform: scaleY(1) translate(0,0);
+  }
+  to {
+    transform: scaleY(1.05) translate(0,5%);
+  }
+} */
+
+#ball {
+  animation: rotating 1s linear 250ms infinite reverse;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+@keyframes rotating {
+  from {
+    transform: scaleY(1) translate(0,0) rotate(0deg);
+  }
+  to {
+    transform: scaleY(1.05) translate(0,5%) rotate(360deg);
+  }
+}
+
+
+#hill {
+  animation: color infinite linear 5s alternate;
+}
+
+@keyframes color {
+  from {
+    fill: red;
+  }
+  to {
+    fill: yellow;
+  }
+}
+
