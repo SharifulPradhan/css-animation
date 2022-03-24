@@ -51,7 +51,7 @@ I learned how to use an svg files for animation. We can choose every part of the
 - Twitter - [@sharifulhridoy2](https://twitter.com/SharifulHridoy2)
 - LinkedIn - [@sharifulhridoy2](https://www.linkedin.com/in/sharifulhridoy2/)
 - Whatsapp - [+880 1785-018296](https://wa.me/8801785018296)
-- Medium - [@sharifulpradhanhridoy](https://medium.com/@sharifulpradhanhridoy)
+- Medium - [@sharifulpradhanhridoy](https://sharifulpradhanhridoy.medium.com/)
 
 ## Acknowledgments
 I got helped from DevEd CSS Animation YouTube video, MDN, W3schools and CSS tricks.
